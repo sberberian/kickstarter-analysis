@@ -18,7 +18,7 @@ The second analysis in the image below demonstrates the pecentage of plays withi
 ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png) 
 
 ### Challenges and Difficulties Encountered
-One brief trouble I had during the launch date analysis was remembering how to remove the filtering buttons on the chart to make it look more neat. After toggling with the various buttons and chart settings, I realized they could be hidden by simply right-clicking on the buttons and choosing to hide them. 
+One brief obstacle I had during the launch date analysis was remembering how to remove the filtering buttons on the chart to make it look more neat. After toggling with the various buttons and chart settings, I realized they could be hidden by simply right-clicking on the buttons and choosing to hide them. 
 
 The main issue I faced with the funding goals task was when using the CountIf function to calculate the play quantities with the various filtering involved. When the formula kept failing, I reviewed the CountIf function more closely and realized the number filter for the funding goal range needed to have parenthesis around them. 
 
