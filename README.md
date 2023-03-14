@@ -10,12 +10,12 @@ After the success of Louise's play, Fever, the following analyses were developed
 ### Analysis of Outcomes Based on Launch Date
 The first analysis seen below visualizes the volumes of campaigns with different outcomes across the month that they were launched. I created the chart based on a pivot table using the fields for parent category, years, outcomes, and launch date. Then, I adjusted the formatting to clear the buttons, added a title, and changed the colors. Now, it is clear to see which months had the most success or lack thereof and which months had the most canceled projects. 
 
-![Theater_Outcomes_vs_Launch](C:\Users\saman\Downloads\Data Bootcamp\Crowdfunding Analysis\Challenge 1\Resources\Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The second analysis in the image below demonstrates the pecentage of plays within each outcome across the several ranges of funding goals. I pulled the quantities within each goal range for each outcome and summed every range in a new column. Finally, I took the sum of every range and divided them by the quantity for the outcomes down the rows to populate the percentages. The chart shows where the most and least successful funding goals are. 
 
-![Outcomes_vs_Goals](C:\Users\saman\Downloads\Data Bootcamp\Crowdfunding Analysis\Challenge 1\Resources\Outcomes_vs_Goals.png) 
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png) 
 
 ### Challenges and Difficulties Encountered
 One brief trouble I had during the launch date analysis was remembering how to remove the filtering buttons on the chart to make it look more neat. After toggling with the various buttons and chart settings, I realized they could be hidden by simply right-clicking on the buttons and choosing to hide them. 
